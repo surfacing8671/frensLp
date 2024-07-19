@@ -1,0 +1,15 @@
+{
+  "name": "frenslp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx tsx index.ts"
+  },
+  "dependencies": {
+    "ethers": "^6.13.1",
+    "tsc": "^2.0.4",
+    "tsx": "^4.16.2",
+    "viem": "^2.17.5"
+  }
+}
